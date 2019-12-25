@@ -1,0 +1,14 @@
+{
+  "name": "ws_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "nanoid": "^2.1.8",
+    "ws": "^7.2.1"
+  }
+}
